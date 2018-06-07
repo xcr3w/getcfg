@@ -1,0 +1,2 @@
+# getcfg
+test

